@@ -6,6 +6,8 @@
 - one.py
 - one.html
 - one.txt
+- multiply.py
+- check.html
 
 **And one more file is for `Documentation`**
 
